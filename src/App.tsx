@@ -120,7 +120,7 @@ export default function AfterWorksFestivalPage() {
               </div>
 
               <p className="mt-8 max-w-xl text-white/70 leading-relaxed text-sm md:text-base">
-                퇴근 후에도 끝나지 않는 우리들의 플레이리스트. <br> 직장인 밴드 4팀이
+                퇴근 후에도 끝나지 않는 우리들의 플레이리스트. <br/> 직장인 밴드 4팀이
                 함께 만드는 연합 공연, 음악으로 하루의 피로를 날려버릴 밤.
               </p>
             </div>
