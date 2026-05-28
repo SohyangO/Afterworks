@@ -228,7 +228,7 @@ export default function AfterWorksFestivalPage() {
                 </div>
 
                 <div className="space-y-4">
-                  {setlists[currentBand].songs.slice(0, 7).map((song, idx) => (
+                  {setlists[currentBand].songs.slice(0, 8).map((song, idx) => (
                     <div
                       key={song}
                       className="flex items-center justify-between border-b border-white/10 pb-4"
